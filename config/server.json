@@ -1,0 +1,6 @@
+{
+	"ui_dir": "/ui",
+	"server": true,
+	"log_level": "DEBUG",
+	"bootstrap_expect": 3
+}
